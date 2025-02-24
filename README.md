@@ -1,6 +1,6 @@
 # MNIST Database Neural Netwok
 
-## A neural network I made from scratch, with a single 10 neuron hidden layer.
+### A neural network I made from scratch, with a single 10 neuron hidden layer. Trained using images from the MNIST database, a source of hand-drawn digits on a 28x28 pixel frame. 
 
 ![alt](https://github.com/igobyjack/scratch-net/blob/main/predictions/prediction50.png)
 
