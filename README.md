@@ -4,4 +4,6 @@
 
 ![alt](https://github.com/igobyjack/scratch-net/blob/main/predictions/prediction50.png)
 
+![alt](https://github.com/igobyjack/scratch-net/blob/main/predictions/prediction0.png)
+
 ## I'm trying to get it to do some cool things, like a way to draw your own numbers and run predictions. Come back later and there might be some cool updates.
